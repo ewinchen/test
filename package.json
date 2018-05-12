@@ -1,6 +1,6 @@
 {
   "name": "test-github",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "just for test about git work flow",
   "main": "index.js",
   "scripts": {
