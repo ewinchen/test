@@ -1,10 +1,11 @@
 {
   "name": "test-github",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "just for test about git work flow",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
+    "rel": "standard-version -a -m 'cut the v%s release',",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
