@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "rel": "standard-version -a -m 'cut the v%s release'",
+    "rel": "standard-version -a -m \"cut the v%s release\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
