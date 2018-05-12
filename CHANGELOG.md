@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/ewinchen/test/compare/v0.0.1...v0.2.0) (2018-05-12)
+
+
+### Bug Fixes
+
+* rel ([12dc1bd](https://github.com/ewinchen/test/commit/12dc1bd))
+* test standard-version ([5c797e4](https://github.com/ewinchen/test/commit/5c797e4))
+
+
+### Features
+
+* test standard-version ([f657c0a](https://github.com/ewinchen/test/commit/f657c0a))
+
+
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/ewinchen/test/compare/v0.0.1...v0.1.0) (2018-05-12)
 
